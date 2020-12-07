@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Multi-Purpose Discord BOT
 
-You can use the [editor on GitHub](https://github.com/PsychoDeveloper/Comio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Comio is a Discord BOT developer by VelociRaptor#5757 (PsychoDeveloper).
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
