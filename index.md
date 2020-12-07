@@ -1,6 +1,6 @@
 ## Multi-Purpose Discord BOT
 
-Comio is a Discord BOT developer by VelociRaptor#5757 (PsychoDeveloper).
+**Comio** is a Discord BOT developer by `VelociRaptor#5757`(PsychoDeveloper). Built With `Disocrd.js 12.4.1` and `node.js 14.15.0`, **Comio** features powerfull **Music** functions, unique **Welcome Messages**,
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
